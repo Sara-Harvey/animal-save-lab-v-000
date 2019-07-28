@@ -1,5 +1,10 @@
 html {
   background: url(../images/water-park.jpg) no-repeat top left;
+  width: 100%;
+}
+
+body{
+  max-width: 1028px;
 }
 
 #ring {
